@@ -447,28 +447,7 @@ if (!googlePlacesService.isConfigured()) {
 - Consider third-party aggregation services
 - Focus on Hostaway as primary source
 
----
-
-## 12. Contact & Support
-
-### Resources
-
-- **Google Places API Docs:** https://developers.google.com/maps/documentation/places/web-service
-- **API Pricing:** https://mapsplatform.google.com/pricing/
-- **Place ID Finder:** https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder
-- **Support:** https://developers.google.com/maps/support
-
-### Questions?
-
-For implementation questions or issues:
-1. Check Google Cloud Console for API errors
-2. Review API quotas and billing
-3. Verify Place IDs are correct
-4. Check server logs for error messages
-
----
-
 **Document Version:** 1.0  
-**Last Updated:** November 18, 2024  
-**Author:** Flex Living Development Team
+**Last Updated:** November 19, 2025  
+**Author:** Yusuke Doi
 
