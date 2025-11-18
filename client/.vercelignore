@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.local
+.env.development
+*.log
+.DS_Store
+.git
+.vscode
+.idea
+src/**/*.test.js
+src/**/*.test.jsx
+
