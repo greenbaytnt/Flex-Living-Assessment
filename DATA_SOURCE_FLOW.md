@@ -45,6 +45,6 @@ This architecture provides the **best user experience** regardless of which APIs
 
 ---
 
-**Last Updated:** November 18, 2024  
-**Version:** 2.0
+**Last Updated:** November 19, 2025  
+**Version:** 1.0
 
