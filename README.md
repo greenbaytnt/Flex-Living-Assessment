@@ -131,7 +131,7 @@ flex-living/
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/greenbaytnt/Flex-Living-Assessment.git
 cd flex-living
 ```
 
